@@ -7,9 +7,9 @@
         "rename",
         "bot"
     ],
-    "repository": "https://github.com/RYM-OFFICIAL/FastRenameBot",
-    "website": "https://t.me/RymOfficial",
-    "success_url": "https://t.me/JaiHindChatting",
+    "repository": "https://github.com/ccadmin1/frenamebot",
+    "website": "https://t.me/DhashamoolamDhamu",
+    "success_url": "https://t.me/cinemacollections",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org"
