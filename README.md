@@ -28,7 +28,7 @@ status - Show Users Count in DB. (Admin Only)
 
 <h4>Press The Below Button To Fast Deploy On Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RYM-OFFICIAL/FastRenameBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ccadmin1/frenamebot)
 
 
 ---
